@@ -1,0 +1,455 @@
+0	Stone tools	/wiki/Stone_tool	3.3 - 2.6 million years ago	-3300000.0	-2600000.0	 Stone tools - found in modern-day Kenya only found on the archetype road. Ancient stone tools from Ethiopia (Oldowan) were hand-crafted by Australopithecus or related people.
+1	fire and cooking	/wiki/Control_of_fire_by_early_humans	2.3 million years ago	-2300000.0	-2300000.0	 Earliest likely control of fire and cooking, by Homo habilis
+2	Advanced (Acheulean) stone tools	/wiki/Acheulean	1.76 million years ago	-1760000.0	-1760000.0	 Advanced (Acheulean) stone tools in Kenya by Homo erectus
+3	language	/wiki/Origin_of_language	1.75 - 150 thousand years ago	-150000.0	-1750.0	 Varying estimates for the origin of language
+4	Bone tools	/wiki/Bone_tool	1.5 million years ago	-1500000.0	-1500000.0	 Bone tools in Africa by Homo erectus
+5	Boats	/wiki/Boat	900 - 40 thousand years ago	-900000.0	-40000.0	 Boats
+6	Hafting	/wiki/Hafting	500 thousand years ago	-500000.0	-500000.0	 Hafting in South Africa by Homo heidelbergensis
+7	Woodworking construction	/wiki/Woodworking	500 - 450 thousand years ago	-500000.0	-450000.0	 Woodworking construction in Zambia by Homo heidelbergensis (The oldest known surviving buildings are made from stone and date back no more than 9,500 years.)
+8	Food storage	/wiki/Food_storage	420 - 200 thousand years ago	-420000.0	-200000.0	 Food storage in the form of uncracked bones saved for their marrow in Qesem cave, Israel.
+9	Pigments	/wiki/Pigment	400 thousand years ago	-400000.0	-400000.0	 Pigments in Zambia by Homo heidelbergensis
+10	Spears	/wiki/Spear	400 - 300 thousand years ago	-400000.0	-300000.0	 Spears in Germany likely by Homo heidelbergensis
+11	Trade of resources	/wiki/Trade	320 thousand years ago	-320000.0	-320000.0	 The trade and long-distance transportation of resources (e.g. obsidian), use of pigments, and possible making of projectile points in Kenya
+12	Glue	/wiki/Adhesive	200 thousand years ago	-200000.0	-200000.0	 Simple glue (adhesive) made of one kind of material, birch tar, in Central Italy by Neanderthals.
+13	Beds	/wiki/Bed	200 thousand years ago	-200000.0	-200000.0	 Beds in South Africa.
+14	Clothing	/wiki/History_of_clothing_and_textiles	170 - 90 thousand years ago	-170000.0	-90000.0	 Clothing, among anatomically modern humans in Africa. Genetic evidence from body lice suggests a range of dates centering over 100 thousand years ago. The first bone scrapers appropriate for scraping hides to make supple leather were found in Morocco dating to 90–120,000 years ago.
+15	Beads	/wiki/Bead	135 - 100 thousand years ago	-135000.0	-100000.0	 Beads in Israel and Algeria
+16	Compound paints	/wiki/Paint	100 thousand years ago	-100000.0	-100000.0	 Compound paints made in South Africa
+17	Funerals	/wiki/Burial	100 thousand years ago	-100000.0	-100000.0	 Funerals (in the form of burial) in Israel
+18	Harpoons	/wiki/Harpoon	90 thousand years ago	-90000.0	-90000.0	 Harpoons in the Democratic Republic of the Congo.
+19	Bow-and-arrow technology	/wiki/Arrow	70 - 60 thousand years ago	-70000.0	-60000.0	 in Sibudu Cave in South Africa by Homo sapiens
+20	Sewing needle	/wiki/Sewing_needle	70 - 60 thousand years ago	-70000.0	-60000.0	 in Sibudu Cave in South Africa by Homo sapiens
+21	Cave painting	/wiki/Cave_painting	61 - 62 thousand years ago	-62000.0	-61000.0	 Cave painting in Spain by Neanderthal
+22	Representational and Narrative art	/wiki/Representation_(arts	55.8 - 51.2 thousand years ago	-55800.0	-51200.0	 Representational and Narrative art in Indonesia by Homo sapiens
+23	Ground stone tools	/wiki/Ground_stone	49 - 30 thousand years ago	-49000.0	-30000.0	 Ground stone tools – fragments of an axe in Australia date to 49–45 ka, more appear in Japan closer to 30 ka, and elsewhere closer to the Neolithic.
+24	Mines	/wiki/Mining	47 thousand years ago	-47000.0	-47000.0	 The oldest-known mines in the world are from Eswatini, and extracted hematite for the production of the red pigment ochre.
+25	Shoes	/wiki/Shoe	45 - 9 thousand years ago	-45000.0	-9000.0	 Earliest evidence of shoes, suggested by changes in foot bone morphology in China by Tianyuan man. The earliest physical shoes found so far are bark sandals dated to 10 to 9 kya in Fort Rock Cave, United States. The oldest known leather shoe dated to 5.5 kya was found in excellent condition in the Areni-1 cave located in the Vayots Dzor province of Armenia. 
+26	Tally sticks	/wiki/Tally_stick	44 - 42 thousand years ago	-44000.0	-42000.0	 Tally sticks (see Lebombo bone) in Eswatini
+27	Flute	/wiki/Flute	42 thousand years ago	-42000.0	-42000.0	 Flute in Germany
+28	Mortar and pestle	/wiki/Mortar_and_pestle	37 thousand years ago	-37000.0	-37000.0	 Mortar and pestle in Southwest Asia
+29	Rope and cords	/wiki/Rope	32 - 28 thousand years ago	-32000.0	-28000.0	 Rope and Cords for ""hafting stone tools, weaving baskets, or sewing garments,"" according to Elis Kvavadze et al.
+30	Amputation and surgery	/wiki/Amputation	31 thousand years ago	-31000.0	-31000.0	 Amputation and surgery. Medicine in a meaningful sense likely predates the human-chimpanzee split, as, for example, herbal medicine has been observed in other primates.
+31	Ceramics	/wiki/Ceramics	28 thousand years ago	-28000.0	-28000.0	 Ceramics (direct evidence) and weaving (impressions left in the ceramics) in Moravia (Czech Republic) and Georgia. (The oldest piece of woven cloth found so far was in Çatalhöyük, Turkey and dated to about 9,000 years ago.)
+32	Ceramic sculpture	/wiki/Venus_of_Doln%C3%AD_V%C4%9Bstonice	24 thousand years ago	-24000.0	-24000.0	 Oldest known ceramic sculpture
+33	Domestication of the dog	/wiki/Domestication_of_the_dog	23 thousand years ago	-23000.0	-23000.0	 Domestication of the dog in Siberia.
+34	Bullroarer	/wiki/Bullroarer	22 - 17 thousand years ago	-22000.0	-17000.0	 Bullroarer
+35	Fish hook	/wiki/Fish_hook	22 thousand years ago	-22000.0	-22000.0	 Fish hook in Okinawa Island, modern day Japan.
+36	Star chart	/wiki/Star_chart	21 - 3.7 thousand years ago	-21000.0	-3700.0	 Star chart in France, and later Spain, Kashmir, Germany, and Egypt.
+37	Spear-thrower	/wiki/Spear-thrower	17.5 thousand years ago	-17500.0	-17500.0	 Spear-thrower (atlatl), found in France.
+38	Pottery	/wiki/Pottery	16 thousand years ago	-16000.0	-16000.0	 Pottery in China
+39	Bread	/wiki/Bread	14.5 thousand years ago	-14500.0	-14500.0	 Bread in Jordan
+40	Spindle whorl	/wiki/Spindle_whorl	12 thousand years ago	-12000.0	-12000.0	 Spindle whorl, also the oldest wheel-like tool, at Nahal Ein Gev II (Israel)
+41	Agriculture	/wiki/Agriculture	10,000 BC - 9000 BC	-10000.0	-9000.0	 Agriculture in the Fertile Crescent
+42	Domestication of the sheep	/wiki/Domestication_of_the_sheep	10,000 BC - 9000 BC	-10000.0	-9000.0	 Domestication of sheep in Southwest Asia (followed shortly by pigs, goats and cattle)
+43	Oldest known surviving building	/wiki/List_of_oldest_extant_buildings	9500 BC - 9000 BC	-9500.0	-9000.0	 Oldest known surviving building – Göbekli Tepe, in Turkey
+44	Domestication of rice	/wiki/Domestication_of_rice	9000 BC - 6000 BC	-9000.0	-6000.0	 Domestication of rice in China
+45	Mudbricks	/wiki/Mudbrick	9000 BC	-9000.0	-9000.0	 Mudbricks (unfired bricks), and clay mortar in Jericho.
+46	Water well	/wiki/Well	8400 BC	-8400.0	-8400.0	 Oldest known water well in Cyprus.
+47	Proto-city	/wiki/Proto-city	8000 BC - 7500 BC	-8000.0	-7500.0	 Proto-city – large permanent settlements, such as Tell es-Sultan (Jericho) and Çatalhöyük, Turkey.
+48	Alcohol fermentation	/wiki/Ethanol_fermentation	7000 BC	-7000.0	-7000.0	 Alcohol fermentation – specifically mead, in China
+49	Sled dog	/wiki/Sled_dog	7000 BC	-7000.0	-7000.0	 Sled dog and Dog sled, in Siberia.
+50	Tanned leather	/wiki/Tanning_(leather)	7000 BC - 3300 BC	-7000.0	-3300.0	 Tanned leather in Mehrgarh, Pakistan.
+51	Lead smelting	/wiki/Lead_smelting	6500 BC	-6500.0	-6500.0	 Evidence of lead smelting in Çatalhöyük, Turkey
+52	Kiln	/wiki/Kiln	6000 BC	-6000.0	-6000.0	 Kiln in Mesopotamia (Iraq)
+53	Irrigation	/wiki/Irrigation	6000 - 5000 BC	-6000.0	-5000.0	 Irrigation in Khuzistan, Iran
+54	Proto-writing	/wiki/Proto-writing	6000 BC - 3200 BC	-6000.0	-3200.0	 Proto-writing in present-day Egypt, Iraq, Romania, China, India and Pakistan.
+55	Salt production	/wiki/Salt_production	5900 - 5600 BC	-5900.0	-5600.0	 Oldest evidence of salt production found in Southeastern Europe, in the countries of Moldova and Romania.
+56	Cheese	/wiki/Cheese	5500 - 5200 BC	-5500.0	-5200.0	 Oldest evidence of cheese found, in Poland and on the Dalmatian coast of Croatia.
+57	Sailing	/wiki/Sailing	5500 BC	-5500.0	-5500.0	 Sailing - pottery depictions of sail boats, in Mesopotamia, and later ancient Egypt
+58	Copper smelting	/wiki/Smelting#Copper_and_bronze	5000 BC	-5000.0	-5000.0	 Copper smelting in Serbia.
+59	Seawall	/wiki/Seawall	5000 BC	-5000.0	-5000.0	 Seawall in Tel Hreiz.
+60	Lacquer	/wiki/Lacquer	5000 - 4000 BC	-5000.0	-4000.0	 Lacquer in China
+61	Cotton thread	/wiki/Cotton	5000 BC	-5000.0	-5000.0	 Cotton thread, in Mehrgarh, Pakistan, connecting the copper beads of a bracelet.
+62	Oar	/wiki/Oar	5000 BC - 4500 BC	-5000.0	-4500.0	 Rowing oars in China
+63	Lost-wax casting	/wiki/Lost-wax_casting	4500 BC - 3500 BC	-4500.0	-3500.0	 Lost-wax casting in Israel or the Indus Valley
+64	Fired brick	/wiki/Fired_brick	4400 BC	-4400.0	-4400.0	 Fired bricks in China.
+65	Paved roads	/wiki/Roads	4000 BC	-4000.0	-4000.0	 Paved roads, in and around the Mesopotamian city of Ur, Iraq.
+66	Plumbing	/wiki/Plumbing	4000 BC	-4000.0	-4000.0	 Plumbing. The earliest pipes were made of clay, and are found at the Temple of Bel at Nippur in Babylonia.
+67	Locks	/wiki/Lock_and_key	4000 BC	-4000.0	-4000.0	 Oldest evidence of locks, the earliest example discovered in the ruins of Nineveh, the capital of ancient Assyria.
+68	Wheel	/wiki/Wheel	4000 BC - 3400 BC	-4000.0	-3400.0	 Oldest evidence of wheels, found in the countries of Ukraine, Poland, and Germany.
+69	Silk garments	/wiki/Sericulture	3630 BC	-3630.0	-3630.0	 Silk garments (sericulture) in China
+70	Domestication of the horse	/wiki/Domestication_of_the_horse	3500 BC	-3500.0	-3500.0	 Probable first domestication of the horse in the Eurasian Steppes.
+71	/wiki/General_anaesthesia	/wiki//wiki/General_anaesthesia	3500 BC	-3500.0	-3500.0	 Wine as general anaesthesia in Sumer.
+72	Seal (emblem)	/wiki/Seal_(emblem)	3500 BC	-3500.0	-3500.0	 Seal (emblem) invented around in the Near East, at the contemporary sites of Uruk in southern Mesopotamia and slightly later at Susa in south-western Iran during the Proto-Elamite period, and they follow the development of stamp seals in the Halaf culture or slightly earlier.
+73	Ploughing	/wiki/Ploughing	3500 BC	-3500.0	-3500.0	 Ploughing, on a site in Bubeneč, Czech Republic. Evidence, c. 2800 BC, has also been found at Kalibangan, Indus Valley (modern-day India).
+74	Tattoo	/wiki/Tattoo	3400 BC - 3100 BC	-3400.0	-3100.0	 Tattoos in southern Europe
+75	Writing	/wiki/Writing	3050 BC - 3000 BC	-3050.0	-3000.0	 Writing – in Sumer and Egypt
+76	Sword	/wiki/Sword	3300 BC	-3300.0	-3300.0	 The first documented swords. They have been found in Arslantepe, Turkey, are made from arsenical bronze, and are about 60&#160;cm (24&#160;in) long. Some of them are inlaid with silver.
+77	City	/wiki/City	3300 BC	-3300.0	-3300.0	 City in Uruk, Sumer, Mesopotamia (modern-day Iraq).
+78	Hats	/wiki/Hat	3250 BC	-3250.0	-3250.0	 One of the earliest documented hats was worn by a man (nicknamed Ötzi) whose body and hat  found frozen in a mountain between Austria and Italy. He was found wearing a bearskin cap with a chin strap, made of several hides stitched together, resembling a Russian fur hat without the flaps.
+79	Latrine	/wiki/Latrine	3200 BC	-3200.0	-3200.0	 Dry Latrines in the city of Uruk, Iraq, with later dry squat Toilets, that added raised fired brick foot platforms, and pedestal toilets, all over clay pipe constructed drains.
+80	Dice	/wiki/Dice	3000 BC	-3000.0	-3000.0	 Devices functionally equivalent to dice, in the form of flat two-sided throwsticks, are seen in the Egyptian game of Senet. Perhaps the oldest known dice, resembling modern ones, were excavated as part of a backgammon-like game set at the Burnt City, an archeological site in south-eastern Iran, estimated to be from between 2800 and 2500 BC. Later, terracotta dice were used at the Indus Valley site of Mohenjo-daro (modern-day Pakistan).
+81	Tin extraction	/wiki/Tin	3000 BC	-3000.0	-3000.0	 Tin extraction in Central Asia
+82	Papyrus	/wiki/Papyrus	3000 BC - 2560 BC	-3000.0	-2560.0	 Papyrus in Egypt
+83	Reservoir	/wiki/Reservoir	3000 BC	-3000.0	-3000.0	 Reservoir in Girnar, Indus Valley (modern-day India).
+84	Receipt	/wiki/Receipt	3000 BC	-3000.0	-3000.0	 Receipt in Ancient Mesopotamia (Iraq)
+85	Prosthesis	/wiki/Prosthesis	3000 BC - 2800 BC	-3000.0	-2800.0	 Prosthesis first documented in the Ancient Near East, in ancient Egypt and Iran, specifically for an eye prosthetics, the eye found in Iran was likely made of bitumen paste that was covered with a thin layer of gold.
+86	Rhinoplasty	/wiki/Rhinoplasty	3000 BC - 2500 BC	-3000.0	-2500.0	 Rhinoplasty in Egypt.
+87	Ruler	/wiki/Ruler	2650 BC	-2650.0	-2650.0	 The Ruler, or Measuring rod, in the subdivided Nippur, copper rod, of the Sumerian Civilisation (modern-day Iraq). 
+88	Planned city	/wiki/Planned_city	2600 BC	-2600.0	-2600.0	 Planned city in Indus Valley (modern-day
+89	Public sewage and sanitation systems	/wiki/Sanitation_of_the_Indus_Valley_Civilisation	2600 BC	-2600.0	-2600.0	 Public sewage and sanitation systems in Indus Valley sites such as Mohenjo-daro and Rakhigarhi (modern-day
+90	Public bath	"/wiki/Great_Bath,_Mohenjo-daro"	2600 BC	-2600.0	-2600.0	 Public bath in Mohenjo-daro, Indus Valley (modern-day Pakistan).
+91	Levee	/wiki/Levee	2600 BC	-2600.0	-2600.0	 Levee in Indus Valley.
+92	Balance weights	/wiki/Balance_weights	2600 BC	-2600.0	-2600.0	 Balance weights and scales, from the Fourth Dynasty of Egypt; examples of Deben (unit) balance weights, from reign of Sneferu (c. 2600 BC) have been attributed.
+93	Dock (maritime)	/wiki/Dock_(maritime)	2556 BC	-2556.0	-2556.0	 Docks structure in Wadi al-Jarf, Egypt, which was developed by the reign of the Pharaoh Khufu.
+94	Puppetry	/wiki/Puppetry	2500 BC	-2500.0	-2500.0	 Puppetry in the Indus Valley.
+95	Fork	/wiki/Fork	2400 BC	-2400.0	-2400.0	 Fork in Bronze Age Qijia culture in China
+96	Copper pipes	/wiki/History_of_water_supply_and_sanitation#Ancient_Egypt	2400 BC	-2400.0	-2400.0	 Copper pipes, the Pyramid of Sahure, an adjoining temple complex at Abusir, was discovered to have a network of copper drainage pipes.
+97	Touchstone	/wiki/Touchstone_(assaying_tool)	2400 BC	-2400.0	-2400.0	 Touchstone in the Indus Valley site of Banawali (modern-day India).
+98	Dictionary	/wiki/Dictionary	2300 BC	-2300.0	-2300.0	 Dictionary in Mesopotamia.
+99	Iron smelting	/wiki/Iron_smelting	2200 BC - 2000 BC	-2200.0	-2000.0	 Iron smelting in Kaman-Kalehöyük.
+100	Protractor	/wiki/Protractor	2200 BC	-2200.0	-2200.0	 Protractor, Phase IV, Lothal, Indus Valley (modern-day India), a Xancus shell cylinder with sawn grooves, at right angles, in its top and bottom surfaces, has been proposed as an angle marking tool.
+101	Water clock	/wiki/Water_clock	2000 BC	-2000.0	-2000.0	 Water clock by at least the old Babylonian period (c. 2000 – c. 1600 BC), but possibly earlier from Mohenjo-Daro in the Indus Valley.
+102	Chariot	/wiki/Chariot	2000 BC	-2000.0	-2000.0	 Chariot in Russia and Kazakhstan
+103	Fountain	/wiki/Fountain	2000 BC	-2000.0	-2000.0	 Fountain in Lagash, Sumer.
+104	Scissors	/wiki/Scissors	2000 BC	-2000.0	-2000.0	 Scissors, in Mesopotamia.
+105	Proto-alphabet	/wiki/Proto-Sinaitic_script	1850 BC	-1850.0	-1850.0	 Proto-alphabet (Proto-Sinaitic script) in Egypt.
+106	Surgical treatise	/wiki/Edwin_Smith_Papyrus	1600 BC	-1600.0	-1600.0	 Surgical treatise appeared in Egypt.
+107	Sundial	/wiki/Sundial	1500 BC	-1500.0	-1500.0	 Sundial in Ancient Egypt or Babylonia (modern-day Iraq).
+108	Glass	/wiki/Glass	1500 BC	-1500.0	-1500.0	 Glass manufacture in either Mesopotamia or Ancient Egypt.
+109	Seed drill	/wiki/Seed_drill	1500 BC	-1500.0	-1500.0	 Seed drill in Babylonia.
+110	Prosthetic limb	/wiki/Prosthetic	1500 BC	-1500.0	-1500.0	 Prosthetic limb in India mentioned in vedas (warrior queen vishpala).
+111	Rubber	/wiki/Mesoamerican_rubber_balls	1400 BC	-1400.0	-1400.0	 Rubber, Mesoamerican ballgame.
+112	Concrete	/wiki/Concrete	1400 BC - 1200 BC	-1400.0	-1200.0	 Concrete in Tiryns (Mycenaean Greece), though it was not yet waterproof.
+113	Lathe	/wiki/Lathe	1300 BC	-1300.0	-1300.0	 Lathe in Ancient Egypt.
+114	Distillation	/wiki/Distillation	1200 BC	-1200.0	-1200.0	 Distillation is described on Akkadian tablets documenting perfumery operations.
+115	Star catalogue	/wiki/Star_catalogue	1100 BC	-1100.0	-1100.0	 Star catalogue — Three Stars Each is the earliest known catalogue in long-running tradition of Babylonian astronomy, likely drawing on Sumerian and/or Elamite constellations.
+116	Saddle	/wiki/Saddle	700 BC	-700.0	-700.0	 Saddle (fringed cloths or pads used by Assyrian cavalry).
+117	Library catalog	/wiki/Library_of_Ashurbanipal	7th century BC	-700.0	-600.0	 The royal Library of Ashurbanipal at Nineveh had 30,000 clay tablets, in several languages, organized according to shape and separated by content. The first recorded example of a library catalog.
+118	Waterproof concrete	/wiki/Concrete	688 BC	-688.0	-688.0	 Waterproof concrete in use, by the Assyrians. Later, the Romans developed concretes that could *set* underwater, and used concrete extensively for construction from 300 BC to 476 AD.
+119	Crossbow	/wiki/Crossbow	650 BC	-650.0	-650.0	 Crossbow in China.
+120	Windmill	/wiki/Windmill	650 BC	-650.0	-650.0	 Windmills in Persia.
+121	Coins	/wiki/Coins	600 BC	-600.0	-600.0	 Coins in Phoenicia (Modern Lebanon) or Lydia.
+122	Wagonway	/wiki/Wagonway	600 BC	-600.0	-600.0	 Wagonway called Diolkos across the Isthmus of Corinth in Ancient Greece.
+123	University	/wiki/University	6th century BC	-600.0	-500.0	 University in Taxila, of the Indus Valley, then part of the kingdom of Gandhara, of the Achaemenid Empire (modern-day Pakistan).
+124	Lighthouse	/wiki/Lighthouse	500 BC	-500.0	-500.0	 Lighthouse in Greece.
+125	Crank	/wiki/Crank_(mechanism)	500 BC	-500.0	-500.0	 Crank motion (a rotary quern) in Carthage or 5th century BC Celtiberian Spain. Later during the Roman empire, a mechanism appeared that incorporated a connecting rod.
+126	Deed	/wiki/Deed	500 BC	-500.0	-500.0	 Loan deeds in Upanishadic India.
+127	Toe stirrup	/wiki/Stirrup#Precursors	500 - 200 BC	-500.0	-200.0	 Toe stirrup, depicted in 2nd century Buddhist art, of the Sanchi and Bhaja Caves, of the Deccan Satavahana empire (modern-day India) although may have originated as early as 500 BC.
+128	Catapult	/wiki/Catapult	485 BC	-485.0	-485.0	 Catapult by Ajatashatru in Magadha, India.
+129	Scythed chariot	/wiki/Scythed_chariot	485 BC	-485.0	-485.0	 Scythed chariot by Ajatashatru in Magadha, India.
+130	Cast iron	/wiki/Cast_iron	5th century BC	-500.0	-400.0	 Cast iron in Ancient China
+131	Spiral stairs	/wiki/Spiral_stairs	480 BC	-480.0	-480.0	 Spiral stairs (Temple A) in Selinunte, Sicily 
+132	Wheelbarrow	/wiki/Wheelbarrow	407 BC	-407.0	-407.0	 Early descriptions of what may be a Wheelbarrow in Greece. First actual depiction of one (tomb mural) shows up in China in 118 AD.
+133	Camera obscura	/wiki/Camera_obscura	400 BC	-400.0	-400.0	 Camera obscura described by Mo-tzu (or Mozi) in China.
+134	Traction trebuchet	/wiki/Traction_trebuchet	4th century BC	-400.0	-300.0	 Traction trebuchet in Ancient China.
+135	Gears	/wiki/Gears	4th century BC	-400.0	-300.0	 Gears in Ancient China
+136	Reed pens	/wiki/Reed_pens	4th century BC	-400.0	-300.0	 Reed pens, utilising a split nib, were used to write with ink on Papyrus in Egypt.
+137	Nailed horseshoe	/wiki/Nailed_horseshoe	4th century BC	-400.0	-300.0	 Nailed Horseshoe, with 4 bronze shoes found in an Etruscan tomb.
+138	Rotary mill	/wiki/Rotary_mill	375 BC - 350 BC	-375.0	-350.0	 Animal-driven rotary mill in Carthage.
+139	Corporations	/wiki/Corporations	400 - 350 BC	-400.0	-350.0	 Corporations in either the Maurya Empire of India or in Ancient Rome (Collegium).
+140	Cheque	/wiki/Cheque	400 - 350 BC	-400.0	-350.0	 Cheque in the Maurya Empire of India
+141	Potassium nitrate manufacturing	/wiki/Potassium_nitrate_manufacturing	400 - 350 BC	-400.0	-350.0	 Potassium nitrate manufacturing and military use in the Seleucid Empire.
+142	Formal systems	/wiki/Formal_systems	400 - 350 BC	-400.0	-350.0	 Formal systems by Pāṇini in India, possibly during the reign of Chandragupta Maurya.
+143	Zinc production	/wiki/Zinc_production	400 - 200 BC	-400.0	-200.0	 Zinc production in North-Western India during the Maurya Empire. The earliest known zinc mines and smelting sites are from Zawar, near Udaipur, in Rajasthan.
+144	Analog computer	/wiki/Analog_computer	3rd century BC	-300.0	-200.0	 Analog computers in the Hellenistic world (see e.g. the Antikythera mechanism), possibly in Rhodes.
+145	Cam	/wiki/Cam	3rd century BC	-300.0	-200.0	 Cam during the Hellenistic period, used in water-driven automata.
+146	Gimbal	/wiki/Gimbal	3rd century BC	-300.0	-200.0	 Gimbal described by Philo of Byzantium
+147	Blast furnace	/wiki/Blast_furnace	300 - 100 BC	-300.0	-100.0	 Blast furnace in Ancient China
+148	Paper	/wiki/Paper	2nd century BC	-200.0	-100.0	 Paper in Han dynasty China
+149	Compass	/wiki/Compass	206 BC	-206.0	-206.0	 Compass in Han dynasty China
+150	Segmental arch bridge	/wiki/Segmental_arch_bridge	1st century BC	-100.0	-0.0	 Segmental arch bridge (e.g. Pont-Saint-Martin or Ponte San Lorenzo) in Italy, Roman Republic
+151	News bulletin	/wiki/News_bulletin	1st century BC	-100.0	-0.0	 News bulletin during the reign of Julius Caesar. A paper form, i.e. the earliest newspaper, later appeared during the late Han dynasty in the form of the Dibao.
+152	Arch dam	/wiki/Arch_dam	1st century BC	-100.0	-0.0	 Arch dam (Glanum Dam) in Gallia Narbonensis, Roman Republic 
+153	Zero	/wiki/Zero	38 BC	-38.0	-38.0	 An empty shell Glyph for zero, is found on a Maya numerals Stela, from Chiapa de Corzo, Chiapas. Independently invented by Claudius Ptolemy, in the second century CE Egypt, and appearing in the calculations of the Almagest.
+154	Glass blowing	/wiki/Glass_blowing	37 BC - 14 BC	-37.0	-14.0	 Glass blowing developed in Jerusalem.
+155	Noodle	/wiki/Noodle	25 BC	-25.0	-25.0	 Noodle in Lajia in China
+156	aeolipile	/wiki/aeolipile	1st century AD	0.0	100.0	 The aeolipile, a simple steam turbine is recorded by Hero of Alexandria.
+157	Respiratory protective equipment	/wiki/Respiratory_protective_equipment	1st century AD	0.0	100.0	 The first use of respiratory protective equipment is documented by Pliny the Elder (c.&#8201;23 AD–79) using animal bladder skins to protect workers in Roman mines from red lead oxide dust.
+158	Wine	/wiki/Wine	1st century AD	0.0	100.0	 Oldest surviving wine.
+159	Vending machines	/wiki/Vending_machines	1st century AD	0.0	100.0	 Vending machines invented by Hero of Alexandria.
+160	Seismometer	/wiki/Seismometer	132	132	132	 Seismometer and pendulum in Han dynasty China, built by Zhang Heng. It is a large metal urn-shaped instrument which employed either a suspended pendulum or inverted pendulum acting on inertia, like the ground tremors from earthquakes, to dislodge a metal ball by a lever trip device.
+161	Carding	/wiki/Carding	2nd century	100	200	 Carding in India.
+162	Chaturanga	/wiki/Chaturanga	280 - 550	280	550	 Chaturanga, a precursor of Chess was invented in India during the Gupta Empire.
+163	Dichroic glass	/wiki/Dichroic_glass	4th century	300	400	 Roman Dichroic glass, which displays one of two different colors depending on lighting conditions.
+164	Simple suspension bridge	/wiki/Simple_suspension_bridge	4th century	300	400	 Simple suspension bridge, independently invented in Pre-Columbian South America,  and the Hindu Kush range, of present-day Afghanistan and Pakistan. With Han dynasty travelers noting bridges being constructed from 3 or more vines or 3 ropes. Later bridges constructed utilizing cables of iron chains appeared in Tibet.
+165	Fishing reel	/wiki/Fishing_reel	4th century	300	400	 Fishing reel in Ancient China
+166	Oil wells	/wiki/Oil_wells	347	347	347	 Oil Wells and Borehole drilling in China. Such wells could reach depths of up to 240&#160;m (790&#160;ft).
+167	Horse harness	/wiki/Horse_harness	5th century	400	500	 The horse collar as a fully developed collar harness is developed in Northern and Southern dynasties China during the 5th century AD. The earliest depiction of it is a Dunhuang cave mural from the Chinese Northern Wei dynasty, the painting dated to 477–499.
+168	Pointed arch bridge	/wiki/Pointed_arch_bridge	400 - 600	400	600	 Pointed arch bridge (Karamagara Bridge) in Cappadocia, Eastern Roman Empire
+169	Pendentive dome	/wiki/Pendentive_dome	563	563	563	 Pendentive dome (Hagia Sophia) in Constantinople, Eastern Roman Empire
+170	Sulfur matches	/wiki/Sulfur_matches	577	577	577	 Sulfur matches exist in China.
+171	Toilet paper	/wiki/Toilet_paper	589	589	589	 Toilet paper in Sui dynasty China, first mentioned by the official Yan Zhitui (531–591), with full evidence of continual use in subsequent dynasties.
+172	Toothbrush	/wiki/Toothbrush	619	619	619	 Toothbrush in China during the Tang dynasty
+173	Freek fire	/wiki/Freek_fire	672	672	672	 Greek fire in Constantinople, Byzantine Empire
+174	Banknote	/wiki/Banknote	7th century	600	700	 Banknote in Tang dynasty China
+175	Porcelain	/wiki/Porcelain	7th century	600	700	 Porcelain in Tang dynasty China
+176	Gunpowder	/wiki/Gunpowder	9th century	800	900	 Gunpowder in Tang dynasty China
+177	Playing cards	/wiki/Playing_cards	9th century	800	900	 Playing card in Tang dynasty China
+178	Fire lance	/wiki/Fire_lance	10th century	900	1000	 Fire lance in Song dynasty China, developed in the 10th century with a tube of first bamboo and later on metal that shot a weak gunpowder blast of flame and shrapnel, its earliest depiction is a painting found at Dunhuang. Fire lance is the earliest firearm in the world and one of the earliest gunpowder weapons.
+179	Fireworks	/wiki/Fireworks	10th century	900	1000	 Fireworks in Song dynasty China
+180	Fountain pen	/wiki/Fountain_pen	974	974	974	 Fountain pen
+181	Calico	/wiki/Calico	11th century	1000	1100	 Calico was developed in Calicut, India.
+182	Movable type	/wiki/Movable_type	1088	1088	1088	 Movable type in Song dynasty China
+183	Rocket	/wiki/Rocket	13th century	1200	1300	 Rocket for military and recreational uses date back to at least 13th-century China.
+184	Mechanical escapement	/wiki/Mechanical_escapement	13th century	1200	1300	 The earliest form of mechanical escapement, the verge escapement in Europe.
+185	Buttons	/wiki/Buttons	13th century	1200	1300	 Buttons (combined with buttonholes) as a functional fastening for closing clothes appear first in Germany.
+186	Bombs	/wiki/Bombs	13th century	1200	1300	 Explosive bomb in Jin dynasty Manchuria
+187	Hand cannon	/wiki/Hand_cannon	13th century	1200	1300	 Hand cannon in Yuan dynasty China
+188	Snow goggles	/wiki/Snow_goggles	13th century	1200	1300	 Earliest documented snow goggles, a type of sunglasses, made of flattened walrus or caribou ivory are used by the Inuit peoples in the arctic regions of North America. In China, the first sunglasses consisting of flat panes of smoky quartz are documented.
+189	Cotton gin	/wiki/Cotton_gin	1200 - 1400	1200	1400	 Worm gear cotton gin in India.
+190	Land mine	/wiki/Land_mine	1277	1277	1277	 Land mine in Song dynasty China
+191	Eyeglasses	/wiki/Eyeglasses	1286	1286	1286	 Eyeglasses in Italy
+192	Painting canvas	/wiki/Painting_canvas	14th century	1300	1400	 Painting Canvas was first used in Italy.
+193	Jacob’s staff	/wiki/Jacob’s_staff	14th century	1300	1400	 Jacob's staff described by Levi ben Gerson
+194	Naval mine	/wiki/Naval_mine	14th century	1300	1400	 Naval mine in Ming dynasty China
+195	Bidriware	/wiki/Bidriware	14th century	1300	1400	 Bidriware in the Bahmani Sultanate in India.
+196	Mainspring	/wiki/Mainspring	15th century	1400	1500	 Mainspring in Europe
+197	Rifle	/wiki/Rifle	15th century	1400	1500	 Rifle in Europe
+198	Brace	/wiki/Brace	1410 - 1420	1410	1420	 Brace in Flanders, Holy Roman Empire
+199	Printing press	/wiki/Printing_press	1439	1439	1439	 Printing press in Mainz, Germany
+200	Mariner’s astrolabe	/wiki/Mariner’s_astrolabe	1470 - 1480	1470	1480	 Mariner's astrolabe in Portuguese circumnavigation of Africa
+201	Printed clothing	/wiki/Printed_clothing	16th century	1500	1600	 Chintz or printed clothing in Golconda, India
+202	Hookah	/wiki/Hookah	16th century	1500	1600	  Hookah by Irfan Shaikh, at the court of the Mughal emperor Akbar I (1542–1605).
+203	Dry dock	/wiki/Dry_dock	1560	1560	1560	 Floating Dry Dock in Venice, Venetian Republic
+204	Mercator projection map	/wiki/Mercator_projection_map	1569	1569	1569	 Mercator Projection map created by Gerardus Mercator
+205	Stocking frame	/wiki/Stocking_frame	1589	1589	1589	 Stocking frame
+206	Backstaff	/wiki/Backstaff	1594	1594	1594	 Backstaff
+207	Newspaper	/wiki/Newspaper	1605	1605	1605	 Newspaper (Relation)
+208	Telescope	/wiki/Telescope	1608	1608	1608	 Telescope
+209	Microscope	/wiki/Microscope	1620	1620	1620	 Compound microscopes, which combine an objective lens with an eyepiece to view a real image, first appear in Europe. Apparently derived from the telescope, actual inventor unknown, variously attributed to Zacharias Janssen (his son claiming it was invented in 1590), Cornelis Drebbel, and Galileo Galilei.
+210	Slide rule	/wiki/Slide_rule	1630	1630	1630	 Slide rule
+211	Mechanical calculator	/wiki/Mechanical_calculator	1642	1642	1642	 Mechanical calculator. The Pascaline is built by Blaise Pascal.
+212	Barometer	/wiki/Barometer	1643	1643	1643	 Barometer
+213	Vacuum pump	/wiki/Vacuum_pump	1650	1650	1650	 Vacuum pump
+214	Pendulum clock	/wiki/Pendulum_clock	1656	1656	1656	 Pendulum clock
+215	Friction machine	/wiki/Friction_machine	1663	1663	1663	 Friction machine
+216	Reflecting telescope	/wiki/Reflecting_telescope	1668	1668	1668	 First functional reflecting telescope constructed by Isaac Newton.
+217	Pressure-cooker	/wiki/Pressure-cooker	1679	1679	1679	 Pressure-cooker
+218	Piston engine	/wiki/Gunpowder_engine	1680	1680	1680	 Christiaan Huygens provides the first known description of a piston engine.
+219	Piano	/wiki/Piano	1709	1709	1709	 Bartolomeo Cristofori crafts the first piano.
+220	Alcohol thermometer	/wiki/Thermometer	1709	1709	1709	 Daniel Gabriel Fahrenheit invents the alcohol thermometer.
+221	Steam engine	/wiki/Steam_engine	1712	1712	1712	 Thomas Newcomen builds the first commercial steam engine to pump water out of mines. Newcomen's engine, unlike Thomas Savery's, uses a piston.
+222	Octant	/wiki/Octant_(instrument)	1730	1730	1730	 Thomas Godfrey and John Hadley independently develop the octant
+223	Mechanised cotton spinning machine	/wiki/Paul-Wyatt_cotton_mills	1738	1738	1738	 Lewis Paul and John Wyatt invent the first mechanized cotton spinning machine.
+224	Franklin stove	/wiki/Franklin_stove	1742	1742	1742	 Benjamin Franklin invents the Franklin stove.
+225	Capacitor	/wiki/Capacitor	1745	1745	1745	 Musschenbroek and Kleist independently develop the Leyden jar, an early form of capacitor.
+226	Lead chamber process	/wiki/Lead_chamber_process	1746	1746	1746	 John Roebuck invents the lead chamber process.
+227	Lightning rod	/wiki/Lightning_rod	1752	1752	1752	 Benjamin Franklin invents the lightning rod.
+228	Refrigerator	/wiki/Refrigerator	1755	1755	1755	 William Cullen invents the first artificial refrigeration machine.
+229	Roller skates	/wiki/Roller_skates	1760	1760	1760	 John Joseph Merlin invents the first  Roller skates.
+230	Spinning Jenny	/wiki/Spinning_Jenny	1764	1764	1764	 James Hargreaves invents the spinning jenny.
+231	Carbonated water	/wiki/Carbonated_water	1767	1767	1767	 Joseph Priestley invents a method for the production of carbonated water.
+232	Weighing scale	/wiki/Weighing_scale	1770	1770	1770	 Richard Salter invents the earliest known design for a weighing scale.
+233	Screw-cutting lathe	/wiki/Screw-cutting_lathe	1775	1775	1775	 Jesse Ramsden invents the modern screw-cutting lathe.
+234	Mechanical air compressor	/wiki/Mechanical_air_compressor	1776	1776	1776	 John Wilkinson invents a mechanical air compressor that would become the prototype for all later mechanical compressors.
+235	Lever tumbler lock	/wiki/Lever_tumbler_lock	1778	1778	1778	 Robert Barron invents the first lever tumbler lock.
+236	Metal-cylinder rocket	/wiki/Metal-cylinder_rocket	1780	1780	1780	 Hyder Ali of Mysore, India develops the first metal-cylinder rockets.
+237	Steamboat	/wiki/Steamboat	1783	1783	1783	 Claude de Jouffroy builds the first steamboat.
+238	Hot air balloon	/wiki/Hot_air_balloon	1783	1783	1783	 Joseph-Ralf and Jacques-Étienne Montgolfier build the first manned hot air balloon.
+239	Parachute	/wiki/Parachute	1783	1783	1783	 Louis-Sébastien Lenormand invents and uses the first modern parachute.
+240	Electrolysis	/wiki/Electrolysis	1785	1785	1785	 Martinus van Marum is the first to use the electrolysis technique.
+241	Threshing machine	/wiki/Threshing_machine	1786	1786	1786	 Andrew Meikle invents the threshing machine.
+242	Power loom	/wiki/Power_loom	1789	1789	1789	 Edmund Cartwright invents the power loom.
+243	Sewing machine	/wiki/Sewing_machine	1790	1790	1790	 Thomas Saint invents the sewing machine.
+244	Semaphore telegraph	/wiki/Semaphore_telegraph	1792	1792	1792	 Claude Chappe invents the modern semaphore telegraph.
+245	Hydraulic press	/wiki/Hydraulic_press	1795	1795	1795	 Joseph Bramah invents the hydraulic press.
+246	Lithography	/wiki/Lithography	1796	1796	1796	 Alois Senefelder invents the lithography printing technique.
+247	Plywood	/wiki/Plywood	1797	1797	1797	 Samuel Bentham invents plywood.
+248	Air compressor	/wiki/Air_compressor	1799	1799	1799	 George Medhurst invents the first motorized air compressor.
+249	Paper machine	/wiki/Paper_machine	1799	1799	1799	 The first paper machine is invented by Louis-Nicolas Robert.
+250	Voltaic pile	/wiki/Voltaic_pile	1800	1800	1800	 Alessandro Volta invents the voltaic pile, an early form of battery in Italy, based on previous works by Luigi Galvani.
+251	Arc lamp	/wiki/Arc_lamp	1802	1802	1802	 Humphry Davy invents the arc lamp (exact date unclear; not practical as a light source until the invention of efficient electric generators).
+252	Morphine	/wiki/Morphine	1804	1804	1804	 Friedrich Sertürner discovers morphine as the first active alkaloid extracted from the opium poppy plant.
+253	Jacquard loom	/wiki/Jacquard_loom	1804	1804	1804	 Joseph Marie Jacquard develops his automated Jacquard loom.
+254	Steam locomotive	/wiki/Steam_locomotive	1804	1804	1804	 Richard Trevithick invents the steam locomotive.
+255	Combustion engine	/wiki/Combustion_engine	1807	1807	1807	 Nicéphore Niépce invents  an early internal combustion engine capable of doing useful work.
+256	Canning	/wiki/Canning	1810	1810	1810	 Nicolas Appert invents the canning process for food.
+257	Wristwatch	/wiki/Wristwatch	1810	1810	1810	 Abraham-Louis Breguet creates the first wristwatch.
+258	Safety lamp	/wiki/Safety_lamp	1812	1812	1812	 William Reid Clanny pioneered the invention of the safety lamp which he improved in later years. Safety lamps based on Clanny's improved design were used until the adoption of electric lamps.
+259	Planing machine	/wiki/Planing_machine	1814	1814	1814	 James Fox invents the modern planing machine, though Matthew Murray of Leeds and Richard Roberts of Manchester have also been credited at times with its invention.
+260	Stethoscope	/wiki/Stethoscope	1816	1816	1816	 René Laennec  invents the first Stethoscope.
+261	Electric telegraph	/wiki/Electric_telegraph	1816	1816	1816	 Francis Ronalds builds the first working electric telegraph using electrostatic means.
+262	Stirling engine	/wiki/Stirling_engine	1816	1816	1816	 Robert Stirling invents the Stirling engine.
+263	Dandy horse	/wiki/Dandy_horse	1817	1817	1817	 Baron Karl von Drais invents the dandy horse, an early velocipede and precursor to the modern bicycle.
+264	Tunnelling shield	/wiki/Tunnelling_shield	1818	1818	1818	 Marc Isambard Brunel invents the tunnelling shield.
+265	Heliography	/wiki/Heliography	1822	1822	1822	 Nicéphore Niépce invents Heliography, the first photographic process.
+266	Mechanical computer	/wiki/Mechanical_computer	1822	1822	1822	 Charles Babbage, considered the ""father of the computer"", begins building the first programmable mechanical computer.
+267	Lighter	/wiki/Lighter	1823	1823	1823	 Johann Wolfgang Döbereiner invents the first lighter.
+268	Bolt-action rifle	/wiki/Bolt-action_rifle	1824	1824	1824	 Johann Nikolaus von Dreyse invents the bolt-action rifle.
+269	Electromagnet	/wiki/Electromagnet	1824	1824	1824	 William Sturgeon invents the electromagnet.
+270	Friction match	/wiki/Friction_match	1826	1826	1826	 John Walker invents the friction match.
+271	Gas stove	/wiki/Gas_stove	1826	1826	1826	 James Sharp invents and goes on to manufacture the first practical gas stove.
+272	Hot blast process	/wiki/Hot_blast_process	1828	1828	1828	 James Beaumont Neilson develops the hot blast process.
+273	Reaping machine	/wiki/Reaping_machine	1828	1828	1828	 Patrick Bell invents the reaping machine.
+274	Braille	/wiki/Braille	1829	1829	1829	 Louis Braille invents the Braille reading system for the blind.
+275	Corrugated galvanised iron	/wiki/Corrugated_galvanised_iron	1829	1829	1829	 Henry Robinson Palmer is awarded a patent for corrugated galvanised iron.
+276	Lawn mower	/wiki/Lawn_mower	1830	1830	1830	 Edwin Budding invents the lawn mower.
+277	Electromagnetic induction	/wiki/Electromagnetic_induction	1831	1831	1831	 Michael Faraday invents a method of electromagnetic induction. It would be independently invented by Joseph Henry the following year. Faraday is credited with inventing the first electric generator called the Faraday disk.
+278	Electric motor	/wiki/Electric_motor	1834	1834	1834	 Moritz von Jacobi invents the first practical electric motor.
+279	Electromechanical relay	/wiki/Electromechanical_relay	1835	1835	1835	 Joseph Henry invents the electromechanical relay.
+280	Morse code	/wiki/Morse_code	1837	1837	1837	 Samuel Morse invents Morse code.
+281	Electrotyping	/wiki/Electrotyping	1838	1838	1838	 Moritz von Jacobi invents electrotyping.
+282	Steam shovel	/wiki/Steam_shovel	1839	1839	1839	 William Otis invents the steam shovel.
+283	Steam hammer	/wiki/Steam_hammer	1839	1839	1839	 James Nasmyth invents the steam hammer.
+284	Photovoltaic effect	/wiki/Photovoltaic_effect	1839	1839	1839	 Edmond Becquerel invents a method for the photovoltaic effect, effectively producing the first solar cell.
+285	Vulcanized rubber	/wiki/Vulcanized_rubber	1839	1839	1839	 Charles Goodyear invents vulcanized rubber.
+286	Blueprint	/wiki/Blueprint	1840	1840	1840	 John Herschel invents the blueprint.
+287	Printing telegraph	/wiki/Printing_telegraph	1841	1841	1841	 Alexander Bain devises a printing telegraph.
+288	Fuel cell	/wiki/Fuel_cell	1842	1842	1842	 William Robert Grove invents the first fuel cell.
+289	Fertilizer	/wiki/Fertilizer	1842	1842	1842	 John Bennet Lawes invents superphosphate, the first man-made fertilizer.
+290	Wood pulp paper production	/wiki/Papermaking	1844	1844	1844	 Friedrich Gottlob Keller and, independently, Charles Fenerty come up with the wood pulp method of paper production.
+291	Hypodermic needle	/wiki/Hypodermic_needle	1844	1844	1844	 Francis Rynd invents the hypodermic needle.
+292	Nitroglycerin	/wiki/Nitroglycerin	1847	1847	1847	 Ascanio Sobrero invents Nitroglycerin, the first explosive made that was stronger than black powder.
+293	Pneumatic drill	/wiki/Pneumatic_drill	1848	1848	1848	 Jonathan J. Couch invents the pneumatic drill.
+294	Pin tumbler lock	/wiki/Pin_tumbler_lock	1848	1848	1848	 Linus Yale Sr. invents the first modern pin tumbler lock.
+295	Repeating rifle	/wiki/Repeating_rifle	1849	1849	1849	 Walter Hunt invents the first repeating rifle to use metallic cartridges (of his own design) and a spring-fed magazine.
+296	Safety pin	/wiki/Safety_pin	1849	1849	1849	 Walter Hunt invents the Safety pin.
+297	Elevator	/wiki/Elevator	1852	1852	1852	 Elisha Otis invents the safety brake elevator.
+298	Color photography	/wiki/Color_photography	1855	1855	1855	 James Clerk Maxwell invents the first practical method for color photography, whether chemical or electronic.
+299	Bessemer process	/wiki/Bessemer_process	1855	1855	1855	 Henry Bessemer patents the Bessemer process for making steel, with improvements made by others over the following years.
+300	Plastic	/wiki/Plastic	1856	1856	1856	 Alexander Parkes invents parkesine, also known as celluloid, the first man-made plastic.
+301	Synthetic dye	/wiki/Synthetic_dye	1856	1856	1856	 William Henry Perkin invents mauveine, the first synthetic dye.
+302	Geissler tube	/wiki/Geissler_tube	1857	1857	1857	 Heinrich Geissler invents the Geissler tube.
+303	Lead acid battery	/wiki/Lead_acid_battery	1859	1859	1859	 Gaston Planté invents the lead acid battery, the first rechargeable battery.
+304	Carbon fibers	/wiki/Carbon_fibers	1860	1860	1860	 Joseph Swan produces carbon fibers.
+305	Pasteurization	/wiki/Pasteurization	1864	1864	1864	 Louis Pasteur invents the pasteurization process.
+306	Dynamite	/wiki/Dynamite	1867	1867	1867	 Alfred Nobel invents dynamite, the first safely manageable explosive stronger than black powder.
+307	Barbed wire	/wiki/Barbed_wire	1867	1867	1867	 Lucien B. Smith invents barbed wire, which Joseph F. Glidden will modify in 1874, leading to the taming of the West and the end of the cowboys.
+308	Vinyl	/wiki/Vinyl	1872	1872	1872	 Polyvinyl chloride, more commonly known as vinyl, is synthesized by German chemist Eugen Baumann
+309	Stainless steel	/wiki/Stainless_steel	1872	1872	1872	 J.E.T. Woods and J. Clark invented stainless steel. Harry Brearley was the first to commercialize it.
+310	Rotary kiln	/wiki/Rotary_kiln	1873	1873	1873	 Frederick Ransome invents the rotary kiln.
+311	Crookes radiometer	/wiki/Crookes_radiometer	1873	1873	1873	 William Crookes, a chemist, invents the Crookes radiometer as the by-product of some chemical research.
+312	Metal detector	/wiki/Metal_detector	1874	1874	1874	 Gustave Trouvé invents the first metal detector.
+313	Electric tram	/wiki/Electric_tram	1875	1875	1875	 Fyodor Pirotsky invents the first electric tram near Saint Petersburg, Russia.
+314	Telephone	/wiki/Telephone	1876	1876	1876	 Alexander Graham Bell has a patent granted for the telephone. However, other inventors before Bell had worked on the development of the telephone and the invention had several pioneers.
+315	Phonograph	/wiki/Phonograph	1877	1877	1877	 Thomas Edison invents the first working phonograph.
+316	Rebreather	/wiki/Rebreather	1878	1878	1878	 Henry Fleuss is granted a patent for the first practical rebreather.
+317	Incandescent light bulb	/wiki/Incandescent_light_bulb	1879	1879	1879	 Joseph Swan and Thomas Edison both patent a functional incandescent light bulb. Some two dozen inventors had experimented with electric incandescent lighting over the first three-quarters of the 19th century but never came up with a practical design. Swan's, which he had been working on since the 1860s, had a low resistance so was only suited for small installations. Edison designed a high-resistance bulb as part of a large-scale commercial electric lighting utility.
+318	Arc welding	/wiki/Arc_welding	1881	1881	1881	 Nikolay Benardos presents carbon arc welding, the first practical arc welding method.
+319	Automatic firearms	/wiki/Automatic_firearms	1884	1884	1884	 Hiram Maxim invents the recoil-operated Maxim gun, ushering in the age of semi- and fully automatic firearms.
+320	Steam turbine	/wiki/Steam_turbine	1884	1884	1884	 Sir Charles Parsons invents the modern steam turbine.
+321	Bicycle	/wiki/Bicycle	1885	1885	1885	 John Kemp Starley invents the modern safety bicycle.
+322	Zinc–carbon battery	/wiki/Zinc–carbon_battery	1886	1886	1886	 Carl Gassner invents the zinc–carbon battery, the first dry cell battery, making portable electronics practical.
+323	Hall-Héroult process	/wiki/Hall-Héroult_process	1886	1886	1886	 Charles Martin Hall and independently Paul Héroult invent the Hall–Héroult process for economically producing aluminum in 1886.
+324	Car	/wiki/Car	1886	1886	1886	 Karl Benz invents the first petrol or gasoline powered auto-mobile (car).
+325	Wind turbine	/wiki/Wind_turbine	1887	1887	1887	 James Blyth invents the first wind turbine used for generating electricity.
+326	Ballpoint pen	/wiki/Ballpoint_pen	1888	1888	1888	 John J. Loud invents the ballpoint pen.
+327	Kinetoscope	/wiki/Kinetoscope	1888	1888	1888	 Thomas Edison and William Kennedy Dickson invent the Kinetoscope.
+328	Pneumatic tire	/wiki/Pneumatic_tire	1888	1888	1888	 The first practical pneumatic tire was made by Scotsman John Boyd Dunlop, the patent was from 1847 by Robert William Thomson
+329	Chlorofluorocarbon	/wiki/Chlorofluorocarbon	1895	1895	1895	 Frédéric Swarts invents the first chlorofluorocarbons to be applied as refrigerant.
+330	Cardboard box	/wiki/Cardboard_box	1890	1890	1890	 Robert Gair would invent the pre-cut cardboard box.
+331	Zipper	/wiki/Zipper	1891	1891	1891	 Whitcomb Judson invents the zipper.
+332	Cinematograph	/wiki/Cinematograph	1892	1892	1892	 Léon Bouly invents the cinematograph.
+333	Electric oven	/wiki/Electric_oven	1892	1892	1892	 Thomas Ahearn invents the electric oven.
+334	Diesel engine	/wiki/Diesel_engine	1893	1893	1893	 Rudolf Diesel invents the diesel engine (although Herbert Akroyd Stuart had experimented with compression ignition before Diesel).
+335	Rubber glove	/wiki/Rubber_glove	1893	1893	1893	 William Stewart Halsted, invents the rubber glove for his wife Caroline Hampton as he noticed her hands were affected by the daily surgeries she had performed. The gloves were intended to prevent medical staff from developing dermatitis from surgical chemicals. The first modern disposable glove was created by Ansell Rubber Co. Pty. Ltd. in 1965.
+336	Wireless telegraphy	/wiki/Wireless_telegraphy	1895	1895	1895	 Guglielmo Marconi invents a system of wireless communication using radio waves.
+337	X-ray	/wiki/X-ray	1895	1895	1895	 Wilhelm Conrad Röntgen invented the first radiograph (X-ray).
+338	Surgical mask	/wiki/Surgical_mask	1897	1897	1897	 Surgical masks made of cloth were developed in Europe by physicians Jan Mikulicz-Radecki at the University of Breslau and Paul Berger in Paris, as a result of increasing awareness of germ theory and the importance of antiseptic procedures in medicine.
+339	Polyethylene	/wiki/Polyethylene	1898	1898	1898	 Hans von Pechmann synthesizes polyethylene, now the most common plastic in the world.
+340	Zeppelin	/wiki/Zeppelin	1900	1900	1900	 The first Zeppelin is designed by Theodor Kober.
+341	Vacuum cleaner	/wiki/Vacuum_cleaner	1901	1901	1901	 The first motorized cleaner using suction, a powered ""vacuum cleaner"", is patented independently by Hubert Cecil Booth and David T. Kenney.
+342	Gas turbine	/wiki/Gas_turbine	1903	1903	1903	 The first successful gas turbine is invented by Ægidius Elling.
+343	Laminated glass	/wiki/Laminated_glass	1903	1903	1903	 Édouard Bénédictus invents laminated glass.
+344	Fleming valve	/wiki/Fleming_valve	1904	1904	1904	 The Fleming valve, the first vacuum tube and diode, is invented by John Ambrose Fleming.
+345	Bakelite	/wiki/Bakelite	1907	1907	1907	 Leo Baekeland invents bakelite,  the first plastic made from synthetic components.
+346	Cellophane	/wiki/Cellophane	1908	1908	1908	 Cellophane is invented by Jacques E. Brandenberger.
+347	Haber process	/wiki/Haber_process	1909	1909	1909	 Fritz Haber invents the Haber process.
+348	Television broadcast	/wiki/Television	1909	1909	1909	 The first instantaneous transmission of images, or television broadcast, is carried out by Georges Rignoux and A. Fournier.
+349	Cloud chamber	/wiki/Cloud_chamber	1911	1911	1911	 The cloud chamber, the first particle detector, is invented by Charles Thomson Rees Wilson.
+350	Slot car	/wiki/Slot_car	1912	1912	1912	 The first commercial slot cars or more accurately model electric racing cars operating under constant power were made by Lionel (USA) and appeared in their catalogues in 1912.
+351	Tram	/wiki/Tram	1912	1912	1912	 The first use of articulated trams by Boston Elevated Railway.
+352	Tank	/wiki/Tank	1915	1915	1915	 The first operational military tanks are designed in Great Britain and France. They are used in battle from 1916 and 1917 respectively. The designers in Great Britain are Walter Wilson and William Tritton and in France, Eugène Brillié. (Although it is known that vehicles incorporating at least some of the features of the tank were designed in a number of countries from 1903 onward, none reached a practical form.)
+353	Crystal oscillator	/wiki/Crystal_oscillator	1917	1917	1917	 The crystal oscillator is invented by Alexander M. Nicholson using a crystal of Rochelle Salt although his priority was disputed by Walter Guyton Cady.
+354	Mechanical television	/wiki/Mechanical_television	1926	1926	1926	 John Logie Baird demonstrates the world's first live working television system.
+355	Quartz clock	/wiki/Quartz_clock	1927	1927	1927	 The quartz clock is invented by Warren Marrison and J.W. Horton at Bell Telephone Laboratories.
+356	Penicillin	/wiki/Penicillin	1928	1928	1928	 Penicillin is first observed to exude antibiotic substances by Nobel laureate Alexander Fleming. Development of medicinal penicillin is attributed to a team of medics and scientists including Howard Walter Florey, Ernst Chain and Norman Heatley.
+357	Turbo-jet engine	/wiki/Turbo-jet_engine	1928	1928	1928	 Frank Whittle formally submitted his ideas for a turbo-jet engine. In October 1929, he developed his ideas further. On 16 January 1930, Whittle submitted his first patent (granted in 1932).
+358	Electronic television	/wiki/Television	1928	1928	1928	 Philo Farnsworth demonstrates the first practical electronic television to the press.
+359	Ball screw	/wiki/Ball_screw	1929	1929	1929	 The ball screw is invented by Rudolph G. Boehm.
+360	Supersonic combustion ramjet	/wiki/Scramjet	1930	1930	1930	 The Supersonic combusting ramjet — Frank Whittle.
+361	Phase-contrast microscopy	/wiki/Phase-contrast_microscopy	1930	1930	1930	 The Phase-contrast microscopy is invented by Frits Zernike.
+362	Electron microscope	/wiki/Electron_microscope	1931	1931	1931	 The electron microscope is invented by Ernst Ruska.
+363	FM radio	/wiki/FM_radio	1933	1933	1933	 FM radio is patented by inventor Edwin H. Armstrong.
+364	Wheelchair	/wiki/Wheelchair	1933	1933	1933	 Harry C. Jennings Sr. and Herbert Everest, both mechanical engineers, invented the first lightweight, steel, folding, portable wheelchair with their ""X-brace"" design.
+365	Nylon	/wiki/Nylon	1935	1935	1935	 Nylon, the first fully synthetic fiber is produced by Wallace Carothers while working at DuPont.
+366	Freely programmable computer	/wiki/Z1_(computer)	1938	1938	1938	 Z1, built by Konrad Zuse, is the first freely programmable computer in the world.
+367	Nuclear fission	/wiki/Nuclear_fission	1938	1938	1938	 Nuclear fission discovered in experiment by chemists Otto Hahn and Fritz Strassmann and physicists Lise Meitner and Otto Robert Frisch. The German nuclear energy project was based on this research. The Tube Alloys project and, subsequently, the Manhattan Project and the Soviet atomic bomb project were influenced by this research.
+368	Defibrillator	/wiki/Defibrillator	1939	1939	1939	 G. S. Yunyev or Naum Gurvich invented the electric current defibrillator
+369	Cavity magnetron	/wiki/Cavity_magnetron	1940	1940	1940	 John Randall and Harry Boot would develop the high power, microwave generating, cavity magnetron, later applied to commercial Radar and Microwave oven appliances.
+370	Polyester	/wiki/Polyester	1941	1941	1941	 Polyester is invented by John Rex Whinfield and James Dickson.
+371	Ballistic missile	/wiki/Ballistic_missile	1942	1942	1942	 The V-2 rocket, the world's first long range ballistic missile, developed by engineer Wernher von Braun.
+372	Atomic bomb	/wiki/Atomic_bomb	1945	1945	1945	 The atomic bomb is developed by the Manhattan Project and swiftly used in August 1945 in the atomic bombings of Hiroshima and Nagasaki, effectively ending World War II.
+373	Microwave oven	/wiki/Microwave_oven	1945	1945	1945	 Percy Spencer, while employed at Raytheon, would patent a magnetron based microwave oven.
+374	Radiocarbon dating	/wiki/Radiocarbon_dating	1945	1945	1945	 Willard Libby began his work on radiocarbon dating. He published his paper in 1946, a second paper in Science in 1947. Libby and James Arnold succeeded with the radiocarbon dating theory after results were published in Science in December 1949.
+375	Ejector seat	/wiki/Ejector_seat	1946	1946	1946	 James Martin invents the ejector seat, inspired by the death of his friend and test pilot Captain Valentine Baker in an aeroplane crash in 1942.
+376	Holography	/wiki/Holography	1947	1947	1947	 Holography is invented by Dennis Gabor.
+377	Hydraulic fracturing (fracking)	/wiki/Fracking	1947	1947	1947	 Floyd Farris and J.B. Clark (Stanolind Oil and Gas Corporation) invents hydraulic fracturing technology.
+378	Transistor	/wiki/Transistor	1947	1947	1947	 The first transistor, a bipolar point-contact transistor, is invented by John Bardeen and Walter Brattain under the supervision of William Shockley at Bell Labs.
+379	Atomic clock	/wiki/Atomic_clock	1948	1948	1948	 The first atomic clock is developed at the National Bureau of Standards.
+380	Basic oxygen steelmaking	/wiki/Basic_oxygen_steelmaking	1948	1948	1948	 Basic oxygen steelmaking is developed by Robert Durrer. The majority of steel manufactured in the world is produced using the basic oxygen furnace; in 2000, it accounted for 60% of global steel output.
+381	Video games	/wiki/Video_game	1950	1950	1950	 Bertie the Brain, debatably the first video game, is displayed to the public at the Canadian National Exhibition.
+382	Float glass	/wiki/Float_glass	1952	1952	1952	 The float glass process is developed by Alastair Pilkington.
+383	Thermonuclear weapon	/wiki/Thermonuclear_weapon	1952	1952	1952	 The first thermonuclear weapon is developed.
+384	Video tape recorder	/wiki/Video_tape_recorder	1953	1953	1953	 The first video tape recorder, a helical scan recorder, is invented by Norikazu Sawazaki.
+385	Solar battery	/wiki/Solar_battery	1954	1954	1954	 Invention of the solar battery by Bell Telephone scientists, Calvin Souther Fuller, Daryl Chapin and Gerald Pearson capturing the Sun's power. First practical means of collecting energy from the Sun and turning it into a current of electricity.
+386	Hovercraft	/wiki/Hovercraft	1955	1955	1955	 The hovercraft is patented by Christopher Cockerell.
+387	Hard disk drive	/wiki/Hard_disk_drive	1956	1956	1956	 The hard disk drive is invented by IBM.
+388	Optical amplifier	/wiki/Optical_amplifier	1957	1957	1957	 The laser and optical amplifier are invented and named by Gordon Gould and Charles Townes. The laser and optical amplifier are foundational to powering the Internet.
+389	Personal computer	/wiki/Personal_computer	1957	1957	1957	 The first personal computer used by one person and controlled by a keyboard, the IBM 610, is invented by IBM.
+390	Satellite	/wiki/Satellite	1957	1957	1957	 The first artificial satellite, Sputnik 1, is launched.
+391	Integrated circuit	/wiki/Integrated_circuit	1958 - 1959	1958	1959	 The integrated circuit is independently invented by Jack Kilby and Robert Noyce.
+392	MOSFET	/wiki/MOSFET	1959	1959	1959	 The MOSFET (MOS transistor) is invented by the Egyptian Mohamed Atalla and the Korean Dawon Kahng at Bell Labs. It is used in almost all modern electronic products. It was smaller, faster, more reliable and cheaper to manufacture than earlier bipolar transistors, leading to a revolution in computers, controls and communication.
+393	Laser	/wiki/Laser	1960	1960	1960	 The first functioning laser is invented by Theodore Maiman.
+394	Electronic cigarette	/wiki/Electronic_cigarette	1963	1963	1963	 The first electronic cigarette is created by Herbert A. Gilbert. Hon Lik is often credited with its invention as he developed the modern electronic cigarette and was the first to commercialize it.
+395	High-speed rail	/wiki/High-speed_rail	1964	1964	1964	 Shinkansen, the first high-speed rail commercial passenger service.
+396	Kevlar	/wiki/Kevlar	1965	1965	1965	 Kevlar is invented by Stephanie Kwolek at DuPont.
+397	NPL network	/wiki/NPL_network	1969	1969	1969	 The NPL network followed by the ARPANET implement packet switching for data communication, drawing on the concepts and designs of Donald Davies, and Paul Baran. These are considered precursors to the modern Internet.
+398	Public-key cryptography	/wiki/Public-key_cryptography	1960 - 1970	1960	1970	 Public-key cryptography is invented and developed by James H. Ellis, Clifford Cocks, Malcolm J. Williamson, Whitfield Diffie, Martin Hellman, Ralph Merkle, Ron Rivest, Adi Shamir, Leonard Adleman, et al.
+399	Pocket calculator	/wiki/Pocket_calculator	1970	1970	1970	 The pocket calculator is invented.
+400	Single-chip microprocessor	/wiki/Single-chip_microprocessor	1971	1971	1971	 The first single-chip microprocessor, the Intel 4004, is invented. Its development was led by Federico Faggin, using his silicon-gate MOS technology. This led to the personal computer (PC) revolution.
+401	Space station	/wiki/Salyut_1	1971	1971	1971	 The first space station, Salyut 1, is launched.
+402	Floppy disk	/wiki/Floppy_disk	1971	1971	1971	 IBM developed and released the world's first floppy disk and disk drive.
+403	Video game console	/wiki/Video_game_console	1972	1972	1972	 The first video game console, used primarily for playing video games on a TV, is the Magnavox Odyssey.
+404	Fiber-optic communication	/wiki/Fiber-optic_communication	1973	1973	1973	 The first fiber optic communication systems were developed by Optelecom.
+405	Graphical user interface	/wiki/Graphical_user_interface	1973	1973	1973	 The first commercial graphical user interface is introduced in 1973 on the Xerox Alto. The modern GUI is later popularized by the Xerox Star and Apple Lisa.
+406	Touchscreen	/wiki/Touchscreen	1973	1973	1973	 The first capacitive touchscreen is developed at CERN.
+407	Internet	/wiki/Internet	1974	1974	1974	 The Transmission Control Program is proposed by Vinton Cerf and Robert E. Kahn, building on the work of Louis Pouzin and other Internet pioneers, creating the basis for the modern Internet.
+408	Lithium-ion battery	/wiki/Lithium-ion_battery	1974	1974	1974	 The lithium-ion battery is invented by M. Stanley Whittingham, and further developed in the 1980s and 1990s by John B. Goodenough, Rachid Yazami and Akira Yoshino. It has impacted modern consumer electronics and electric vehicles.
+409	Rubik’s cube	/wiki/Rubik’s_cube	1974	1974	1974	 The Rubik's cube is invented by Ernő Rubik which went on to be the best selling puzzle ever.
+410	DNA sequencing	/wiki/DNA_sequencing	1977	1977	1977	 Dr Walter Gilbert and Frederick Sanger invented a new DNA sequencing method for which they won the Nobel Prize.
+411	Self-driving car	/wiki/Self-driving_car	1977	1977	1977	 The first self-driving car that did not rely upon rails or wires under the road is designed by the Tsukuba Mechanical Engineering Laboratory.
+412	Global Positioning System	/wiki/Global_Positioning_System	1978	1978	1978	 The Global Positioning System (GPS) enters service. While not the first Satellite navigation system, it is the first to enter widespread civilian use.
+413	Handheld game console	/wiki/Handheld_game_console	1979	1979	1979	 The first handheld game console with interchangeable game cartridges, the Microvision is released.
+414	Cellular network	/wiki/Cellular_network	1979	1979	1979	 Nippon Telegraph and Telephone (NTT) launched the first cellular network in Japan.
+415	Flash memory	/wiki/Flash_memory	1980	1980	1980	 Flash memory (both NOR and NAND types) was invented by Fujio Masuoka while working for Toshiba. It was formally introduced to the public in 1984.
+416	Reusable spacecraft	/wiki/Reusable_spacecraft	1981	1981	1981	 The first reusable spacecraft, the Space Shuttle undergoes test flights ahead of full operation in 1982.
+417	Digital media player	/wiki/Digital_media_player	1981	1981	1981	 Kane Kramer develops the credit card-sized, IXI digital media player.
+418	CD-ROM	/wiki/CD-ROM	1982	1982	1982	 A CD-ROM contains data accessible to, but not writable by, a computer for data storage and music playback. The 1985 Yellow Book standard developed by Sony and Philips adapted the format to hold any form of binary data.
+419	Satellite television	/wiki/Satellite_television	1982	1982	1982	 Direct to home satellite television transmission, with the launch of Sky One service.
+420	Laptop	/wiki/Laptop	1982	1982	1982	 The first laptop computer is launched, the 8/16-bit Epson HX-20.
+421	Stereolithography	/wiki/Stereolithography	1983	1983	1983	 Stereolithography is invented by Chuck Hull.
+422	Mobile phone	/wiki/Motorola_DynaTAC	1984	1984	1984	 The first commercially available cell phone in the US, the DynaTAC 8000X, is created by Motorola.
+423	DNA profiling	/wiki/DNA_profiling	1984	1984	1984	 DNA profiling is pioneered by Alec Jeffreys.
+424	MP3	/wiki/MP3	1989	1989	1989	 Karlheinz Brandenburg would publish the audio compression algorithms that would be standardised as the
+425	World Wide Web	/wiki/World_Wide_Web	1989	1989	1989	 The World Wide Web is invented by computer scientist Tim Berners-Lee.
+426	Search engine	/wiki/Archie_(search_engine)	1990	1990	1990	 The first search engine invented was “Archie”, created by Alan Emtage a student at McGill University in Montreal.
+427	Solid-state drive	/wiki/Solid-state_drive	1991	1991	1991	 The first commercial flash-based solid-state drive is launched by SunDisk.
+428	SIM card	/wiki/SIM_card	1991	1991	1991	 The first sim card is developed by Munich smart-card maker Giesecke &amp; Devrient.
+429	Mobile app	/wiki/IBM_Simon	1993	1993	1993	 IBM created the first mobile app with SIMON; it had 10 built-in apps from Email to Calendar.
+430	Smartphone	/wiki/IBM_Simon	1994	1994	1994	 IBM Simon, the world's first smartphone, is developed by IBM.
+431	Bluetooth	/wiki/Bluetooth	1994	1994	1994	 First generation of Bluetooth is developed by Ericsson Mobile. A form of data communication on short distances between electronic devices.
+432	Mobile game	/wiki/Mobile_game	1994	1994	1994	 A Tetris variant on the Hagenuk MT-2000 device becomes the first mobile game.
+433	DVD	/wiki/DVD	1995	1995	1995	 DVD is an optical disc storage format, invented and developed by Philips, Sony, Toshiba, and Panasonic in 1995. DVDs offer higher storage capacity than compact discs while having the same dimensions.
+434	Online dating	/wiki/Online_dating	1995	1995	1995	 Match.com launches as the first dating site ever and is the number 1 most visited dating site in the US.
+435	Online food ordering	/wiki/Online_food_ordering	1995	1995	1995	 Waiter.com launches as the first online food ordering service.
+436	Mobile web	/wiki/Nokia_9000_Communicator	1996	1996	1996	 Mobile web was first commercially offered in Finland on the Nokia 9000 Communicator phone, and it was also the first phone with texting.
+437	Social media	/wiki/Social_media	1996	1996	1996	 Bolt and Six Degrees (1997) both become the first social media sites.
+438	Portable media player	/wiki/Portable_media_player	1998	1998	1998	 The first portable MP3 player was released by SaeHan Information Systems.
+439	Google	/wiki/Google	1998	1998	1998	 The search engine Google, is launched.
+440	Digital video recorder	/wiki/Digital_video_recorder	1999	1999	1999	 The first digital video recorder (DVR), the TiVo, is launched by Xperi.
+441	Blu-ray	/wiki/Blu-ray	2000	2000	2000	 Sony develops the first prototypes for the Blu-ray optical disc format. The first prototype player was released in 2004.
+442	Geocaching	/wiki/Geocaching	2000	2000	2000	 First documented placement of Geocaching, an outdoor recreational activity, in which participants use a Global Positioning System (GPS) receiver or mobile device and other navigational techniques to hide and seek containers, took place on May 3, 2000, by Dave Ulmer of Beavercreek, Oregon.
+443	Podcast	/wiki/Podcast	2004	2004	2004	 First podcast, invented by Adam Curry and Dave Winer, is a program made available in digital format for download over the Internet and it usually features one or more recurring hosts engaged in a discussion about a particular topic or current event.
+444	Video-streaming website	/wiki/YouTube	2005	2005	2005	 YouTube, the first popular video-streaming site, was founded
+445	Video-on-demand	/wiki/Video-on-demand	2007	2007	2007	 Netflix debuted the first popular video-on-demand service
+446	iPhone	/wiki/iPhone	2007	2007	2007	 Apple Inc. released the iPhone
+447	E-reader	/wiki/E-reader	2007	2007	2007	 First Kindle introduced by Amazon (company) founder and CEO Jeff Bezos, who instructed the company's employees to build the world's best e-reader before Amazon's competitors could. Amazon originally used the codename Fiona for the device. This hardware evolved from the original Kindle introduced in 2007 and the Kindle DX (with its larger 9.7"" screen) introduced in 2009.
+448	Blockchain	/wiki/Blockchain	2008	2008	2008	 Satoshi Nakamoto develops the first blockchain.
+449	Solar sail based aircraft	/wiki/Solar_sail	2010	2010	2010	 The first solar sail based spacecraft, IKAROS.
+450	Quantum machine	/wiki/Quantum_machine	2010	2010	2010	 The first quantum machine
+451	Synthetic organism	/wiki/Synthetic_biology	2010	2010	2010	 The first synthetic organism, Mycoplasma laboratorium is created by the J. Craig Venter Institute
+452	Cancer immunotherapy	/wiki/Cancer_immunotherapy	2013	2013	2013	 Cancer immunotherapy
+453	CRISPR genome-editing method	/wiki/CRISPR	2015	2015	2015	 CRISPR genome-editing method
+454	MRNA vaccine	/wiki/MRNA_vaccine	2020	2020	2020	 The first MRNA vaccine to be approved by public health medicines regulators is co-developed by Pfizer and BioNTech for COVID-19.
