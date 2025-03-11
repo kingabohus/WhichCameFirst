@@ -1,5 +1,5 @@
 0	Stone tools	/wiki/Stone_tool	3.3 - 2.6 million years ago	-3300000	-2600000	 Stone tools - found in modern-day Kenya only found on the archetype road. Ancient stone tools from Ethiopia (Oldowan) were hand-crafted by Australopithecus or related people.
-1	fire and cooking	/wiki/Control_of_fire_by_early_humans	2.3 million years ago	-2300000	-2300000	 Earliest likely control of fire and cooking, by Homo habilis
+1	Fire and cooking	/wiki/Control_of_fire_by_early_humans	2.3 million years ago	-2300000	-2300000	 Earliest likely control of fire and cooking, by Homo habilis
 2	Advanced (Acheulean) stone tools	/wiki/Acheulean	1.76 million years ago	-1760000	-1760000	 Advanced (Acheulean) stone tools in Kenya by Homo erectus
 3	language	/wiki/Origin_of_language	1.75 - 150 thousand years ago	-150000	-1750	 Varying estimates for the origin of language
 4	Bone tools	/wiki/Bone_tool	1.5 million years ago	-1500000	-1500000	 Bone tools in Africa by Homo erectus
@@ -69,7 +69,7 @@
 68	Wheel	/wiki/Wheel	4000 BC - 3400 BC	-4000	-3400	 Oldest evidence of wheels, found in the countries of Ukraine, Poland, and Germany.
 69	Silk garments	/wiki/Sericulture	3630 BC	-3630	-3630	 Silk garments (sericulture) in China
 70	Domestication of the horse	/wiki/Domestication_of_the_horse	3500 BC	-3500	-3500	 Probable first domestication of the horse in the Eurasian Steppes.
-71	/wiki/General_anaesthesia	/wiki//wiki/General_anaesthesia	3500 BC	-3500	-3500	 Wine as general anaesthesia in Sumer.
+71	General_anaesthesia	/wiki/General_anaesthesia	3500 BC	-3500	-3500	 Wine as general anaesthesia in Sumer.
 72	Seal (emblem)	/wiki/Seal_(emblem)	3500 BC	-3500	-3500	 Seal (emblem) invented around in the Near East, at the contemporary sites of Uruk in southern Mesopotamia and slightly later at Susa in south-western Iran during the Proto-Elamite period, and they follow the development of stamp seals in the Halaf culture or slightly earlier.
 73	Ploughing	/wiki/Ploughing	3500 BC	-3500	-3500	 Ploughing, on a site in Bubeneč, Czech Republic. Evidence, c. 2800 BC, has also been found at Kalibangan, Indus Valley (modern-day India).
 74	Tattoo	/wiki/Tattoo	3400 BC - 3100 BC	-3400	-3100	 Tattoos in southern Europe
@@ -154,7 +154,7 @@
 153	Zero	/wiki/Zero	38 BC	-38	-38	 An empty shell Glyph for zero, is found on a Maya numerals Stela, from Chiapa de Corzo, Chiapas. Independently invented by Claudius Ptolemy, in the second century CE Egypt, and appearing in the calculations of the Almagest.
 154	Glass blowing	/wiki/Glass_blowing	37 BC - 14 BC	-37	-14	 Glass blowing developed in Jerusalem.
 155	Noodle	/wiki/Noodle	25 BC	-25	-25	 Noodle in Lajia in China
-156	aeolipile	/wiki/aeolipile	1st century AD	0	99	 The aeolipile, a simple steam turbine is recorded by Hero of Alexandria.
+156	Aeolipile	/wiki/Aeolipile	1st century AD	0	99	 The aeolipile, a simple steam turbine is recorded by Hero of Alexandria.
 157	Respiratory protective equipment	/wiki/Respiratory_protective_equipment	1st century AD	0	99	 The first use of respiratory protective equipment is documented by Pliny the Elder (c.&#8201;23 AD–79) using animal bladder skins to protect workers in Roman mines from red lead oxide dust.
 158	Wine	/wiki/Wine	1st century AD	0	99	 Oldest surviving wine.
 159	Vending machines	/wiki/Vending_machines	1st century AD	0	99	 Vending machines invented by Hero of Alexandria.

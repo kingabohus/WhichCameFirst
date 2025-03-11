@@ -9,7 +9,7 @@ inventions = set()
 with open("dataset.txt", 'r') as file:
     for line in file:
         data = line.split('\t')
-        inventions.add(Invention(id = data[0], name = data[1], link = data[2], date_text = data[3], value_min = data[4], value_max = data[5], flavor_text = data[6]))
+        inventions.add(Invention(id = data[0], name = data[1], link = data[2], date_text = data[3], value_min = int(data[4]), value_max = int(data[5]), flavor_text = data[6]))
 
 x = 0
 exit = False
@@ -95,7 +95,6 @@ def game_round():
     inv2_flavor = tk.Label(window, text=invention2.flavor_text, font=text_font, wraplength=300)
     inv2_flavor.place(relx=0.75, rely=0.6, anchor=tk.CENTER)
 
-    print(x)
     if correct == 0:
         result_text = "Around the same time"
         result_color = 'black'
@@ -109,7 +108,7 @@ def game_round():
         result_color = 'red'
         round_score = -1
     else:
-        Exception("something is fishy")
+        Exception("This should not happen")
 
     q_label = tk.Label(window, text=result_text, font=title_font, fg=result_color)
     q_label.place(relx=0.5, rely=0.05, anchor=tk.CENTER)
@@ -148,4 +147,6 @@ score = 0
 while (len(inventions) >= 2) & (exit == False):
     score_change = game_round()
     score = score + score_change
-print('Good game!')
+print("Good game! Your score was {}.".format(score))
+
+## todo: sometimes the tup
