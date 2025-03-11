@@ -24,12 +24,12 @@ value_maxs = list()
 flavor_texts = list()
 
 century_dict = {
-    "1st century" : "0 - 100",
-    "2nd century" : "100 - 200",
-    "3rd century": "200 - 300"
+    "1st century" : "0 - 99",
+    "2nd century" : "100 - 199",
+    "3rd century": "200 - 299"
 }
 for i in range(20):
-    century_dict["{}th century".format(i+4)] = "{}00 - {}00".format(i+3, i+4)
+    century_dict["{}th century".format(i+4)] = "{}00 - {}99".format(i+3, i+3)
 
 
 date_dict = {
@@ -54,7 +54,7 @@ def date_to_num(date):
             first_part = date.split(' ')[0]
             second_part = date.split(' ')[1]
             value = float(first_part) * date_dict[second_part]
-            return value, value
+            return int(value), int(value)
 
     elif len(date.split('-')) == 2:
         # if beginning date has no text (e.g. BC), copy text from end date
@@ -74,7 +74,7 @@ def date_to_num(date):
                 end_date = float(end_date.split(' ')[0] ) * date_dict[end_date.split(' ')[1]]
 
         #basically same code here
-        return min((begin_date), (end_date)), max((begin_date), (end_date))
+        return min(int(begin_date), int(end_date)), max(int(begin_date), int(end_date))
     else:
         Exception("problem with date {}".format(date))
 
